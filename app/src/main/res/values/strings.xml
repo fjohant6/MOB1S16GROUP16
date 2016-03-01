@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App1-Hand1</string>
+    <string name="Display">Display</string>
+    <string name="Information">Information</string>
+    <string name="Map">Map</string>
+    <string name="Photo">Photo</string>
+    <string name="Sensor">Sensor</string>
+    <string name="Compass">Compass</string>
+</resources>
